@@ -1,7 +1,7 @@
 # SHS
 
 
-Access Foundation is fewer characters!
+Access Foundation in fewer characters!
 
 Example:
 ```
